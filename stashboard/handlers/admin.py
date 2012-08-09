@@ -23,7 +23,7 @@ def default_template_data():
 class RootHandler(site.BaseHandler):
 
     def get(self):
-        self.redirect("/admin/services")
+        self.redirect("http://guardiandashboard.appspot.com/admin/services")
 
 
 class SetupHandler(site.BaseHandler):
