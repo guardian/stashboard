@@ -2,10 +2,10 @@ import os
 
 DEBUG = False
 
-SITE_NAME = "Stashboard"
-SITE_AUTHOR = "Colonel Mustache"
-SITE_URL = "http://stashbooard.appspot.com"
-REPORT_URL = "mailto:help@stashboard.org"
+SITE_NAME = "Guardian Status Dashboard"
+SITE_AUTHOR = "Web Systems"
+SITE_URL = "http://guardian-dashbooard.appspot.com"
+REPORT_URL = "mailto:faults.gu@guardian.co.uk"
 
 # OAuth Consumer Credentials
 CONSUMER_KEY = 'anonymous'
